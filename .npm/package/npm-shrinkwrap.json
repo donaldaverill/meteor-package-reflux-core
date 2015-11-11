@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "reflux-core": {
+      "version": "0.3.0",
+      "dependencies": {
+        "eventemitter3": {
+          "version": "1.1.1"
+        }
+      }
+    }
+  }
+}
