@@ -1,7 +1,7 @@
 Package.describe({
   name: 'fourquet:reflux-core',
   version: '0.3.0_1',
-  summary: 'reflux-core npm module wrapped for Meteor.',
+  summary: 'reflux-core wrapped for Meteor.',
   git: 'https://github.com/fourquet/meteor-package-reflux-core',
   documentation: 'README.md',
 });
