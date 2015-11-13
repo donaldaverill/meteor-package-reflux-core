@@ -1,4 +1,4 @@
-[Reflux-core](https://github.com/reflux/reflux-core) wrapped for Meteor framework.
+[Reflux-core](https://github.com/reflux/reflux-core) wrapped for Meteor.
 
 ### Install
 
@@ -7,7 +7,7 @@ meteor add fourquet:reflux-core
 ```
 
 ### Version
-0.3.0_1
+0.3.0_2
 
 License
 ----
