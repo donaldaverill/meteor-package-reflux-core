@@ -7,7 +7,7 @@ meteor add fourquet:reflux-core
 ```
 
 ### Version
-0.3.0_2
+0.3.0_3
 
 License
 ----
