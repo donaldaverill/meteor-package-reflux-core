@@ -1,8 +1,6 @@
 [Reflux-core](https://github.com/reflux/reflux-core) wrapped for Meteor.
-
 ### Install
-
-```
+```bash
 meteor add fourquet:reflux-core
 ```
 
