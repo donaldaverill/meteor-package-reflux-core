@@ -5,7 +5,7 @@ meteor add fourquet:reflux-core
 ```
 
 #### Version
-0.3.0_3
+0.3.0_4
 
 #### License
 MIT
